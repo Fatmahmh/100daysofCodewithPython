@@ -1,3 +1,3 @@
-x ,y ,z = 'apple', 'orange', 'limon'
+x ,y ,z = 'apple', ' orange', ' limon'
 basket = x + y + z
-print(basket)
+print(basket.split())
